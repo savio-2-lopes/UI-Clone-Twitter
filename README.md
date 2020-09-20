@@ -19,5 +19,4 @@ Este projeto é UI Clone responsivo do Twitter.
 
 Caso deseje acessar o deploy do projeto, utilize o link abaixo:
 
-
-https://optimistic-lumiere-cf6d1f.netlify.app
+[UI Clone Responsivo do Twitter](https://optimistic-lumiere-cf6d1f.netlify.app)
