@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Frontend" src="./assets/ui_clone.gif" width="300%">
+  <img alt="twitter" src="./assets/ui_clone.gif" width="300%">
 </p>
 
 <br>
