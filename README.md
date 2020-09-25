@@ -11,17 +11,20 @@ Este projeto foi feito com base nas video aulas do canal [ Rocketseat ](https://
 
 Este projeto é UI Clone responsivo do Twitter.
 
-Caso deseje acessar o deploy do projeto, utilize o link abaixo:
-
-[UI Clone Responsivo do Twitter](https://optimistic-lumiere-cf6d1f.netlify.app)
-
 <br> 
 
-## :rocket: Tecnologias
+## ⚙️ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [Typescript](https://www.typescriptlang.org/)
 
-<br>
+# :bulb: Deploy 
+
+Caso deseje acessar o deploy do projeto, utilize o link abaixo:
+
+[UI Clone Responsivo do Twitter](https://optimistic-lumiere-cf6d1f.netlify.app)
+
+
+
