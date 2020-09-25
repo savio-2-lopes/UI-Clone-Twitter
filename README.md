@@ -4,7 +4,6 @@
 
 <br>
 
-
 ## 💻 Projeto
 
 Este projeto foi feito com base nas video aulas do canal [ Rocketseat ](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
