@@ -12,6 +12,7 @@ Este projeto é UI Clone responsivo do Twitter.
 
 <br> 
 
+
 ## ⚙️ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
