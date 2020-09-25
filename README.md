@@ -20,6 +20,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [Typescript](https://www.typescriptlang.org/)
 
+<br>
+
 # :bulb: Deploy 
 
 Caso deseje acessar o deploy do projeto, utilize o link abaixo:
