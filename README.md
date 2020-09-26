@@ -9,9 +9,6 @@
 - [Projeto](#sobre)
 - [Tecnologias](#tecnologias)
 - [Deploy](#deploy)
-- [Como Executar](#executar)
-- [Tecnologias utilizadas](#tecnologias)
-- [Autor](#autor)
 
 <br>
 
