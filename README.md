@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <a id="deploy"></a>
 
-# :bulb: Deploy 
+## :bulb: Deploy 
 
 Caso deseje acessar o deploy do projeto, utilize o link abaixo:
 
