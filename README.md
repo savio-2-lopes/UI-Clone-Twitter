@@ -35,7 +35,7 @@
 
 <a id="sobre"></a>
 
-# 💻 Projeto
+## 💻 Projeto
 
 Este projeto foi feito com base nas video aulas do canal [ Rocketseat ](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 
@@ -45,7 +45,7 @@ Este projeto é UI Clone responsivo do Twitter.
 
 <a id="tecnologias"></a>
 
-# ⚙️ Tecnologias
+## ⚙️ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -56,7 +56,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <a id="deploy"></a>
 
-# :bulb: Deploy 
+## :bulb: Deploy 
 
 Caso deseje acessar o deploy do projeto, utilize o link abaixo:
 
@@ -66,7 +66,7 @@ Caso deseje acessar o deploy do projeto, utilize o link abaixo:
 
 <a id="licenca"></a>
 
-# :memo: Licença
+## :memo: Licença
 
 Este projeto está sob a licença do MIT. Veja a [página de licença](https://opensource.org/licenses/MIT) para mais detalhes.
 
@@ -74,7 +74,7 @@ Este projeto está sob a licença do MIT. Veja a [página de licença](https://o
 
 <a id="autor"></a>
 
-# 🦸 Autor
+## 🦸 Autor
         
 [![Linkedin Badge](https://img.shields.io/badge/savio-lopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/savio-lopes/)](https://www.linkedin.com/in/savio-lopes/) 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/savio-2-lopes)](https://github.com/savio-2-lopes)
