@@ -28,6 +28,7 @@
 - [Deploy](#deploy)
 - [Licença](#licenca)
 - [Autor](#autor)
+- [Agradecimentos](#agradecimentos)
 
 <br>
 
@@ -35,7 +36,7 @@
 
 ## 💻 Projeto
 
-Este projeto foi feito com base nas video aulas do canal [ Rocketseat ](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
+Este projeto foi feito com base nas video aulas do canal [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 
 Este projeto é UI Clone responsivo do Twitter.
 
@@ -81,3 +82,11 @@ Este projeto está sob a licença do MIT. Veja a [página de licença](https://o
 
 
 Feito com ❤️ por Savio Lopes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/savio-lopes/)
+
+<br>
+
+<a id="agradecimentos"></a>
+
+## 💙 Agradecimentos
+
+Meus agradecimentos a [Rocketseat](https://www.rocketseat.com.br) por disponibilizar esse conteúdo sensacional 🚀.
