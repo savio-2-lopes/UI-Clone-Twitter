@@ -25,7 +25,6 @@
 
 - [Projeto](#sobre)
 - [Tecnologias](#tecnologias)
-- [Deploy](#deploy)
 - [Licença](#licenca)
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
@@ -50,16 +49,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [Typescript](https://www.typescriptlang.org/)
-
-<br>
-
-<a id="deploy"></a>
-
-## :bulb: Deploy 
-
-Caso deseje acessar o deploy do projeto, utilize o link abaixo:
-
-[UI Clone Responsivo do Twitter](https://optimistic-lumiere-cf6d1f.netlify.app)
 
 <br>
 
