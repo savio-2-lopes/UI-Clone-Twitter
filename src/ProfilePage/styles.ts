@@ -1,15 +1,13 @@
-import styled, { css } from 'styled-components';
-import { LocationOn, Cake } from '../styles/icons';
-import Button from '../components/Button';
-
-import Feed from '../components/Feed';
+import styled, { css } from "styled-components";
+import { LocationOn, Cake } from "../styles/icons";
+import Button from "../components/Button";
 
 export const Container = styled.div`
   display: flex;
   flex-direction: column;
   max-height: 100%;
   overflow-y: auto;
-  scrollbar-width: none; 
+  scrollbar-width: none;
   ::-webkit-scrollbar {
     display: none;
   }
